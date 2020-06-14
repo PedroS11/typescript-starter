@@ -87,6 +87,6 @@
   ],
   "exclude": [
     "node_modules",
-    "tests"
+    "**/*.spec.ts"
   ]
 }
