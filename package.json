@@ -24,6 +24,12 @@
     "type": "git",
     "url": "git+https://github.com/PedroS11/typescript-starter.git"
   },
+  "keywords": [
+    "typescript",
+    "boilerplate",
+    "eslint",
+    "jest"
+  ],
   "author": "Pedro Silva",
   "license": "ISC",
   "bugs": {
